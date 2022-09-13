@@ -4,7 +4,7 @@
 
 <!-- Muallim's Panel Start -->
 <div class="content ip-content admin-panel">
-	<div class="container-fw">
+		<div class =" container-fw">
 
 		<div class="ip-main">
 			<div class="t-wrap">

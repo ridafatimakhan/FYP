@@ -23,33 +23,8 @@
 				</div>
 				<div class="team-blurb">
 					<h2>Muhammad Sajid Qureshi</h2>
-					<div class="blurb-in">
-			        	<h3>Patron</h3>
-						<p>Ph.D Scholar</p>
-						<p>International Islamic University, Islamabad.</p>
-						<p>Faculty Member</p>
-						<p>Faculty of Software Engineering & IT</p>
-						<p>Foundation University, Islamabad.</p>
-						<p>Contact No: <a href="tel:+92513737251">+92 513737251</a></p>
-						<p>Email Addres(es): <a href="mailto:muhammad.sajid@fui.edu.pk">muhammad.sajid@fui.edu.pk</a></p>
-						<p><a href="mailto:sajid.phdcs99@iiu.edu.pk">sajid.phdcs99@iiu.edu.pk</a></p>
-						<p>Contribution(s)</p>
-						<ul>
-							<li>Conception of the project idea</li>
-							<li>Verification and formatting of the course material</li>
-							<li>Preparation and verification of the Test-Question repository</li>
-							<li>Database design</li>
-						</ul>
-						<p><a class="ex-btn" href="mailto:muhammad.sajid@fui.edu.pk">Send a Message</a></p>
-					</div>
-				</div>
-			</div>
-            <hr class="bg">
-			<div class="team-member">
-				<!--<div class="team-display">
-					<img class="team-img" src="images/rida.png" alt="Rida Fatima">
-				</div>-->
-				<div class="team-blurb">
+
+					<div class="team-blurb">
 					<h2>Rida Fatima</h2>
 					<div class="blurb-in">
 			        	<h3> Web Designer  & Developer</h3>
@@ -72,10 +47,35 @@
 				</div>
 			</div>
 			<hr class="bg">
-			
-        
-			
 			<div class="team-member">
+
+				<!--<div class="team-display">
+					<img class="team-img" src="images/rida.png" alt="Rida Fatima">
+				</div>-->
+				<div class="blurb-in">
+			        	<h3>Patron</h3>
+						<p>Ph.D Scholar</p>
+						<p>International Islamic University, Islamabad.</p>
+						<p>Faculty Member</p>
+						<p>Faculty of Software Engineering & IT</p>
+						<p>Foundation University, Islamabad.</p>
+						<p>Contact No: <a href="tel:+92513737251">+92 513737251</a></p>
+						<p>Email Addres(es): <a href="mailto:muhammad.sajid@fui.edu.pk">muhammad.sajid@fui.edu.pk</a></p>
+						<p><a href="mailto:sajid.phdcs99@iiu.edu.pk">sajid.phdcs99@iiu.edu.pk</a></p>
+						<p>Contribution(s)</p>
+						<ul>
+							<li>Conception of the project idea</li>
+							<li>Verification and formatting of the course material</li>
+							<li>Preparation and verification of the Test-Question repository</li>
+							<li>Database design</li>
+						</ul>
+						<p><a class="ex-btn" href="mailto:muhammad.sajid@fui.edu.pk">Send a Message</a></p>
+					</div>
+				</div>
+			</div>
+            <hr class="bg">
+			<div class="team-member">
+			
 				<!--<div class="team-display">
 					<img class="team-img" src="images/rimsha.png" alt="Rimsha Javed">
 				</div>-->

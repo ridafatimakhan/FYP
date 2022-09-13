@@ -42,7 +42,8 @@
     <h4 class="font-weight-bold"><?php echo $ptage; ?></h4>
 
     <h4 class="mt-3" >Awarded Date </h5> 
-    <h4 class="font-weight-bold" ><?php echo date('d F, Y');  ?> </h5> 
+    <h4 class="font-weight-bold" ><?php echo date('d F, Y');  ?> </h5>
+
 
     </div>
     
