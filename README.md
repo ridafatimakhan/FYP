@@ -1,2 +1,2 @@
-# FYP
- Massive Online Ccourse System
+# Final Year Project
+ Massive Online Course System
