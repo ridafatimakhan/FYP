@@ -1,0 +1,77 @@
+.attempt-practicetest {
+    display: none;
+    background-color: black;
+
+}
+
+.attempt-practicetest.active {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    height: auto;
+    width: 900px;
+    left: 30%;
+    background-color: white;
+    border: 1px solid #ccc;
+    z-index: 999;
+    top: 25%;	
+
+}
+
+.overlay {
+    display: none;
+    position: center;
+    top: 50;
+    left: 50;
+    height: 600%;
+    width: 500%;
+    
+}
+
+.overlay.active {
+    display: block;
+
+}
+
+.close-popup {
+    position: absolute;
+    left: 95%;
+    top: -20px;
+}
+
+.question-wrapper {
+    display: block;
+    bottom: 0;
+    padding: 50px;
+    text-align: right;
+    transition: all .30s ease-in-out;
+    color: black;
+
+}
+
+.question-wrapper .question {
+    padding: 5px 0px;
+    
+    color: black;
+}
+
+.question-wrapper .choices {
+    padding: 5px 0;
+    color: black;
+
+}
+
+.question-wrapper .choices .choice {
+    user-select: none;
+
+}
+
+.question-wrapper .choices .choice .option-dot {
+    cursor: pointer;
+
+}
+
+.controls-wrapper {
+    padding: 5px 30px;
+    text-align: left;
+}
